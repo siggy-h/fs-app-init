@@ -1,0 +1,25 @@
+{
+  "name": "fs-app-init",
+  "version": "0.0.0",
+  "description": "Test app",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "test": "test-app"
+  },
+  "dependencies": {
+    "bower": ""
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mygithubuser/repo.git"
+  },
+  "keywords": [
+    "adultdrawing"
+  ],
+  "author": "SH",
+  "license": "AGPL3",
+  "bugs": {
+    "url": "https://github.com/mygithubuser/repo/issues"
+  }
+}
