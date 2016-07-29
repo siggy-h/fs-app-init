@@ -2,7 +2,8 @@
   "name": "fs-app-init",
   "version": "0.0.0",
   "dependencies": {
-    "sketchpad": "latest"
+    "sketchpad": "latest",
+    "jquery": "1.11.2"
   },
   "private": true
 }
